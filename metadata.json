@@ -1,0 +1,6 @@
+
+{
+  "name": "Meeting Diarization & Summarizer",
+  "description": "Upload meeting audio for diarization and summarization. Save meetings to a persistent archive and ask an AI agent questions based on the content of your saved transcripts. Powered by Gemini.",
+  "requestFramePermissions": []
+}
